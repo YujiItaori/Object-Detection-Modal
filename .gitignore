@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+cam_detect_env/
+*.DS_Store
+*.log
+yolov5/runs/
+yolov5/data/images/ 
+yolov5/
