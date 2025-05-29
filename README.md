@@ -19,8 +19,7 @@ This is a Python web application that performs real-time object detection throug
 ## 📦 Installation
 
 Clone the repo:
-```bash
-git clone https://github.com/yourusername/cam-detect-app.git
+git clone https://github.com/YujiItaori/Object-Detection-Modal.git
 cd cam-detect-app
 
 ## Set up virtual environment:
