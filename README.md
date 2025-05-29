@@ -47,10 +47,15 @@ Open in browser: http://127.0.0.1:5000
 ## 📂 Folder Structure
 cam-detect-app/
 ├── app.py
+
 ├── camera.py
+
 ├── detector.py
+
 ├── yolov5/
+
 ├── templates/
+
 │   └── index.html
 
 ## 📃 License
