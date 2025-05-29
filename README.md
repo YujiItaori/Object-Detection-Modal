@@ -31,8 +31,11 @@ pip install -r requirements.txt
 ## Clone YOLOv5 inside the folder:
 
 git clone https://github.com/ultralytics/yolov5
+
 cd yolov5
+
 pip install -r requirements.txt
+
 cd ..
 
 ## Run the app:
